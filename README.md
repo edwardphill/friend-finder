@@ -1,2 +1,2 @@
-# friend-finder
+# friendfinder
 Friend finder app
