@@ -1,9 +1,9 @@
 # Friend Finder
 - A friend finder app
 
-# How It's Used
+## How It's Used
 
-# Techonolgy Used
+## Techonolgy Used
 - HTML
 - CSS
 - JavaScript
